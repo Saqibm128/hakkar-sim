@@ -7,9 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            This is a simple simulation of Hakkar the Soulflayer
           </p>
           <a
             className="App-link"
@@ -17,7 +16,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+          <img src="https://media-hearth.cursecdn.com/avatars/380/844/636783326877212674.png" />
           </a>
         </header>
       </div>
